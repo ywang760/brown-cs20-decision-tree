@@ -1,0 +1,5 @@
+size,age,gender,school
+big,10,TRUE,Brown
+medium,10,TRUE,Yale
+big,20,FALSE,Brown
+medium,10,TRUE,Yale
